@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meron Abate</h1>
-<h3 align="center">Data Engineer | Software Developer</h3>
+<h3 align="center">Junior Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriab21&label=Profile%20views&color=0e75b6&style=flat" alt="meriab21" /> </p>
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/45142893/180373097-5ce4cfa0-54e0-4e5e-9ff5-d38043f7b106.gif" width="500" height="320" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriab21" alt="meriab21" /></a> </p>
 
@@ -13,8 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/meron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meron" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/meron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meron" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/linkedin.com/in/meron-abate-kelile-b7805418a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/meron-abate-kelile-b7805418a" height="30" width="40" /></a>
+  <a href="https://medium.com/@meriab1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meron" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
